@@ -1,0 +1,24 @@
+{
+  "name": "stat-tracker",
+  "version": "1.0.0",
+  "description": "Track stats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielsmith4483/stat-tracker.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielsmith4483/stat-tracker/issues"
+  },
+  "homepage": "https://github.com/danielsmith4483/stat-tracker#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.17.2"
+  }
+}
